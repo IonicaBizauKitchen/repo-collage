@@ -2,7 +2,7 @@
 
 > Arrange GitHub repos by dragging them around.
 
-<img src="https://www.dropbox.com/s/rt26etzrje7e9zf/Screenshot%202013-11-04%2022.19.24.png">
+![http://cl.ly/image/0J39133Z0b1S](http://cl.ly/image/0J39133Z0b1S/content#.png)
 
 This is an experiment. Repos are fetched from GitHub using the public API and displayed as draggable
 DOM elements on the screen. Each time an element is dragged, its position is synced with Firebase.
