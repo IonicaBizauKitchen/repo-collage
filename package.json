@@ -1,0 +1,35 @@
+{
+  "name": "repo-collage",
+  "version": "0.0.0",
+  "description": "Arrange GitHub repos by dragging them around.",
+  "main": "index.js",
+  "scripts": {
+    "test": "NODE_ENV=test mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/zeke/repo-collage.git"
+  },
+  "keywords": [
+    "repo",
+    "github",
+    "collage",
+    "erd",
+    "diagram",
+    "relationships",
+    "browser",
+    "browserify",
+    "drag"
+  ],
+  "author": "zeke",
+  "license": "WTFPL",
+  "bugs": {
+    "url": "https://github.com/zeke/repo-collage/issues"
+  },
+  "devDependencies": {},
+  "dependencies": {
+    "drag-stream": "0.0.3",
+    "domready": "~0.2.13",
+    "drag": "0.0.4"
+  }
+}
