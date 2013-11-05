@@ -30,6 +30,7 @@
   "dependencies": {
     "drag-stream": "0.0.3",
     "domready": "~0.2.13",
-    "drag": "0.0.4"
+    "drag": "0.0.4",
+    "superagent": "~0.15.7"
   }
 }
